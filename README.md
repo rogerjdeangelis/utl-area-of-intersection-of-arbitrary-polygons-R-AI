@@ -8,6 +8,11 @@ Area of intersection of arbitrary polygons R AI.
     github
     https://tinyurl.com/yb8ckhsy
     https://github.com/rogerjdeangelis/utl-area-of-intersection-of-arbitrary-polygons-R-AI
+    
+    
+    R graphic
+    https://tinyurl.com/yd3ybhkx
+    https://github.com/rogerjdeangelis/utl-area-of-intersection-of-arbitrary-polygons-R-AI/blob/master/squares.png
 
     StackOverflow R
     https://tinyurl.com/ycuxaurk
