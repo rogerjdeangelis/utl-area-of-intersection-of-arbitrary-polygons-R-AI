@@ -7,6 +7,10 @@ StackOverflow R
 https://tinyurl.com/ycuxaurk
 https://stackoverflow.com/questions/54234895/calculate-area-overlap-for-pairs-of-polygons-in-matrix-format-in-r
 
+R graphic
+https://tinyurl.com/yd3ybhkx
+https://github.com/rogerjdeangelis/utl-area-of-intersection-of-arbitrary-polygons-R-AI/blob/master/squares.png
+
 Wimpel profile
 https://stackoverflow.com/users/6356278/wimpel
 
